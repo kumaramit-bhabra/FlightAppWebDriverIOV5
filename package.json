@@ -1,0 +1,11 @@
+{
+  "name": "flightappwebdriveriov5",
+  "version": "1.0.0",
+  "description": "To test the flight app",
+  "main": "index.js",
+  "scripts": {
+    "test": "Automation Framework"
+  },
+  "author": "Kumar Amit",
+  "license": "ISC"
+}
